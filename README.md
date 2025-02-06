@@ -48,14 +48,14 @@ O projeto é composto pelos seguintes arquivos:
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para isso, siga os passos abaixo:
 
-    Faça um fork deste repositório.
-    Crie uma nova branch com a sua feature ou correção de bug.
-    Faça commit das suas alterações.
-    Envie para o repositório remoto.
-    Abra um Pull Request.
+- Faça um fork deste repositório.
+- Crie uma nova branch com a sua feature ou correção de bug.
+- Faça commit das suas alterações.
+- Envie para o repositório remoto.
+- Abra um Pull Request.
 
 ## Autores do Projecto
-    Este projeto foi desenvolvido por **Edgar Marcos** em parceria com a **Alura** e a **Oracle Next Education** como resquesito da formação de iniciante em programação. 
+    Este projeto foi desenvolvido por ** Edgar Marcos ** em parceria com a ** Alura ** e a ** Oracle Next Education ** como resquesito da formação de iniciante em programação. 
     Sinta-se à vontade para entrar em contato!
 
 ## Licença
