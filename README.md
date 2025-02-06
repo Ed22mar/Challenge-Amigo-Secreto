@@ -2,7 +2,7 @@
 
 Este é um projeto simples de "Amigo Secreto" desenvolvido para fortalecer habilidades em lógica de programação. O objetivo é permitir que os usuários adicionem nomes de amigos e realizem um sorteio para determinar quem será o amigo secreto.
 
-Este projecto faz parte do desafio de logica da Alura com a parceria da ORACLE NEXT EDUCATION
+Este projecto faz parte do desafio de logica da ` Alura ` com a parceria da ` ORACLE NEXT EDUCATION `.
 
 ## Estrutura do Projeto
 
@@ -31,13 +31,13 @@ O projeto é composto pelos seguintes arquivos:
 
 ## Estrutura do Código
 
-index.html
+### index.html
     Contém a estrutura básica da interface, incluindo os campos de entrada, botões e listas para exibir os amigos e o resultado do sorteio.
 
-style.css
+### style.css
     Define os estilos visuais da aplicação, como layout, cores e fontes.
 
-app.js
+### app.js
     Contém a lógica principal da aplicação:
 
     Função adicionarAmigo(): Adiciona um novo amigo à lista.
@@ -55,7 +55,8 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para
     Abra um Pull Request.
 
 ## Autores do Projecto
-    Este projeto foi desenvolvido por [Edgar Marcos Gaspar] em parceria com a <h2>Alura e a Oracle Next Education</h2> como resquesito da formação de iniciante em programação. Sinta-se à vontade para entrar em contato!
+    Este projeto foi desenvolvido por **Edgar Marcos** em parceria com a **Alura** e a **Oracle Next Education** como resquesito da formação de iniciante em programação. 
+    Sinta-se à vontade para entrar em contato!
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT.
