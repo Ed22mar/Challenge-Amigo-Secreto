@@ -32,7 +32,7 @@ O projeto é composto pelos seguintes arquivos:
 ## Estrutura do Código
 
 ### index.html
-    Contém a estrutura básica da interface, incluindo os campos de entrada, botões e listas para exibir os amigos e o resultado do sorteio.
+    <p> Contém a estrutura básica da interface, incluindo os campos de entrada, botões e listas para exibir os amigos e o resultado do sorteio. </p>
 
 ### style.css
     Define os estilos visuais da aplicação, como layout, cores e fontes.
@@ -55,7 +55,7 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para
 - Abra um Pull Request.
 
 ## Autores do Projecto
-    Este projeto foi desenvolvido por ** Edgar Marcos ** em parceria com a ** Alura ** e a ** Oracle Next Education ** como resquesito da formação de iniciante em programação. 
+    Este projeto foi desenvolvido por Edgar Marcos em parceria com a ALURA e a ORACLE NEXT EDUCATION como resquesito da formação de iniciante em programação. 
     Sinta-se à vontade para entrar em contato!
 
 ## Licença
