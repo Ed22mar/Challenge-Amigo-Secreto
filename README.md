@@ -32,7 +32,7 @@ O projeto é composto pelos seguintes arquivos:
 ## Estrutura do Código
 
 ### index.html
-    <p> Contém a estrutura básica da interface, incluindo os campos de entrada, botões e listas para exibir os amigos e o resultado do sorteio. </p>
+    Contém a estrutura básica da interface, incluindo os campos de entrada, botões e listas para exibir os amigos e o resultado do sorteio.
 
 ### style.css
     Define os estilos visuais da aplicação, como layout, cores e fontes.
